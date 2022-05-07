@@ -119,7 +119,6 @@ body.menu-expended #navigation .logo path,
   stroke: white;
 }
 
-
 section {
   padding-block: 10rem;
 }
@@ -381,8 +380,7 @@ body.menu-expended button path {
   margin-block: 1.6rem;
 }
 
-
-/* =========== ABOULT =========================================*/
+/* =========== ABOUT =========================================*/
 #about {
   text-align: left;
   background-color: var(--brand-beige);
