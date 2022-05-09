@@ -10,6 +10,7 @@ function onScroll() {
 
   activateMenuAtCurrentSection(home)
   activateMenuAtCurrentSection(services)
+  activateMenuAtCurrentSection(testimonials)
   activateMenuAtCurrentSection(about)
   activateMenuAtCurrentSection(contact)
 }
@@ -87,4 +88,6 @@ ScrollReveal({
 #about header,
 #about .content,
 #testimonials,
-#testimonials .testimonial`)
+#testimonials .testimonial,
+#brands,
+#brands .brand`)
