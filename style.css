@@ -473,7 +473,6 @@ footer .social-links {
 /* ======== RESPONSIVO =======================================*/
 @media (min-width: 1024px) {
   /* ======== GERAL ==========================================*/
-  /* teste de git */
   .wrapper {
     width: min(112rem, 100%);
     display: grid;
